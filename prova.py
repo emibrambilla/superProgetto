@@ -1,5 +1,5 @@
 def searchDictionary ( str) :
-    print ("prova")
+    print (str)
 
 
-dictionary()
+searchDictionary("CIAO")
