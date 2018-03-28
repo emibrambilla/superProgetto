@@ -1,1 +1,5 @@
-damiano is gay
+def searchDictionary ( str) :
+    print ("prova")
+
+
+dictionary()
