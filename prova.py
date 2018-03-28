@@ -1,1 +1,3 @@
-def searchDictionary () :
+def searchDictionary (str ) :
+    print (str)
+
